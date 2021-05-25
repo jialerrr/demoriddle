@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demoriddle</string>
+    <string name="q1">q1 <br /> This word has the same pronunciation even after removing 4 letters from it</string>
+    <string name="reveal">reveal</string>
+    <string name="q2">q2 <br /> How do you make 1 <br />disappear?</string>
+</resources>
